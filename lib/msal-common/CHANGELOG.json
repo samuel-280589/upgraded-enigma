@@ -2,6 +2,27 @@
   "name": "@azure/msal-common",
   "entries": [
     {
+      "date": "Wed, 24 Apr 2024 05:39:06 GMT",
+      "version": "14.9.0",
+      "tag": "@azure/msal-common_v14.9.0",
+      "comments": {
+        "undefined": [
+          {
+            "author": "beachball",
+            "package": "@azure/msal-common",
+            "comment": "Bump eslint-config-msal to v0.0.0",
+            "commit": "not available"
+          },
+          {
+            "author": "beachball",
+            "package": "@azure/msal-common",
+            "comment": "Bump msal-test-utils to v0.0.1",
+            "commit": "not available"
+          }
+        ]
+      }
+    },
+    {
       "date": "Thu, 11 Apr 2024 21:46:57 GMT",
       "version": "14.9.0",
       "tag": "@azure/msal-common_v14.9.0",
